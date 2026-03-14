@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "霽れを待つ",
+  "base_artist": "YuNi",
+  "createdAt": "2026-03-14T12:45:56.998512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "霽れを待つ",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/01_霽れを待つ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "霽れを待つ",
+      "artist": "天馬咲希",
+      "has_synced": false,
+      "path": "select/02_霽れを待つ_天馬咲希.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "霽れを待つ",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/03_霽れを待つ_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "霽れを待つ (Cover)",
+      "artist": "YuNi",
+      "has_synced": false,
+      "path": "select/pl_01_霽れを待つ_(Cover)_YuNi.txt"
+    }
+  ]
+}
